@@ -1,0 +1,4 @@
+D:\Users\Desk\Face++SDK for windows phone silverlight 8.1\FacePuls\FacePuls\Bin\Debug\FacePuls.dll
+D:\Users\Desk\Face++SDK for windows phone silverlight 8.1\FacePuls\FacePuls\Bin\Debug\FacePuls.pdb
+D:\Users\Desk\Face++SDK for windows phone silverlight 8.1\FacePuls\FacePuls\obj\Debug\FacePuls.dll
+D:\Users\Desk\Face++SDK for windows phone silverlight 8.1\FacePuls\FacePuls\obj\Debug\FacePuls.pdb

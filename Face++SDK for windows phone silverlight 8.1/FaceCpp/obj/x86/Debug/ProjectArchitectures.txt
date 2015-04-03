@@ -1,0 +1,1 @@
+E:\Visual Studio 2013\Projects\facepp-csharp-sdk-beta-master\FaceppDemo\FaceCpp\FaceCpp.csproj;x86

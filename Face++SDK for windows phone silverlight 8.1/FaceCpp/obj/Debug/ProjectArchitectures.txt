@@ -1,0 +1,2 @@
+D:\Users\Desk\Face++SDK for windows phone silverlight 8.1\FaceCpp\FaceCpp.csproj;neutral
+D:\Users\Desk\Face++SDK for windows phone silverlight 8.1\FacePuls\FacePuls\FacePuls.csproj;neutral
